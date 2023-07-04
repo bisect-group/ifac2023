@@ -31,7 +31,7 @@ Identification of a reliable dynamical model of the underlying system for a give
 
 &nbsp;
 
-## Schedule
+## Schedule & Materials
 
 &nbsp;
 
