@@ -3,7 +3,7 @@ layout: page
 title: Tutorial
 permalink: /tutorial
 description:
-nav: true
+nav: false
 nav_order: 2
 ---
 
