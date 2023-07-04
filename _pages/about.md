@@ -31,18 +31,6 @@ Identification of a reliable dynamical model of the underlying system for a give
 
 &nbsp;
 
-
-
-## Organizers
-
-<div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.png" %}
-  {% include people_horizontal.html name="Hyun-Seob Song" position="Associate Professor" affiliation="University of Nebraska-Lincoln, USA" url="https://bse.unl.edu/faculty/hyun-seob-song" img="assets/img/organizers/hyun-seob-song.jpg" %}
-  {% include people_horizontal.html name="Sridharakumar Narasimhan" position="Professor" affiliation="IIT Madras, India" url="https://che.iitm.ac.in/sridharkrn/" img="assets/img/organizers/sridharan.png" %}
-  {% include people_horizontal.html name="Manokaran V" position="Postdoctoral Fellow" affiliation="University of Nebraska-Lincoln, USA" url="https://in.linkedin.com/in/manokaran-veeramani-62b07968" img="assets/img/organizers/manokaran.jpeg" %}
-</div>
-
-&nbsp;
 ## Schedule
 
 &nbsp;
@@ -60,5 +48,16 @@ Identification of a reliable dynamical model of the underlying system for a give
 | 15:15 - 16:15                | [Hands-on session: Incremental modeling and  state estimation](https://github.com/Wickkey/Dual_Degree_Project)                   | Nirav Bhatt/Sridharkumar Narasimhan, IIT Madras, India              |
 | 16:15 - 16:45                | [Metabolic modeling for biotechnology applications: Parameter identification using AUMIC](https://github.com/hyunseobsong/aumic) | Manokaran V., University of Nebraska-Lincoln, USA                   |
 | 16:45 - 17:00                | Discussion and networking                                                                                                        |                                                                     |
+
+&nbsp;
+
+## Organizers
+
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.png" %}
+  {% include people_horizontal.html name="Hyun-Seob Song" position="Associate Professor" affiliation="University of Nebraska-Lincoln, USA" url="https://bse.unl.edu/faculty/hyun-seob-song" img="assets/img/organizers/hyun-seob-song.jpg" %}
+  {% include people_horizontal.html name="Sridharakumar Narasimhan" position="Professor" affiliation="IIT Madras, India" url="https://che.iitm.ac.in/sridharkrn/" img="assets/img/organizers/sridharan.png" %}
+  {% include people_horizontal.html name="Manokaran V" position="Postdoctoral Fellow" affiliation="University of Nebraska-Lincoln, USA" url="https://in.linkedin.com/in/manokaran-veeramani-62b07968" img="assets/img/organizers/manokaran.jpeg" %}
+</div>
 
 ---
