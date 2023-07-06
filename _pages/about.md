@@ -55,6 +55,8 @@ Identification of a reliable dynamical model of the underlying system for a give
 1. Installation of [MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html) prior to workshop is recommended
 2. Download [AUMIC](https://github.com/hyunseobsong/aumic) from GitHub and follow the steps for installation
 
+&nbsp;
+
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
