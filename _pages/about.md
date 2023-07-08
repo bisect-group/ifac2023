@@ -42,9 +42,8 @@ Identification of a reliable dynamical model of the underlying system for a give
 | 08:40 - 09:15                | Modeling of chemical and biological systems using first-principles models                                                        | Nirav Bhatt, IIT Madras, India                                      |
 | 09:15 - 10:00                | Dynamic models of biological systems                                                                                             | Hyun-Seob Song, University of Nebraska-Lincoln, USA                 |
 | 10:00 - 10:15                | Discussion                                                                                                                       |                                                                     |
-| 10:30 - 12:00                | [Hands-on session: AUMIC - Mano, Simulation of Kompala model](https://github.com/hyunseobsong/aumic)                             | 
+| 10:30 - 12:00                | [Hands-on session: AUMIC - Mano, Simulation of Kompala model](https://github.com/hyunseobsong/aumic)                             | Manokaran V., University of Nebraska-Lincoln, USA
 |                              | [Data Set](https://drive.google.com/drive/folders/1DbnTuJpwJ9cCIkfjH4tbAKWHHZM1r10E)                                             |
-|                              |Manokaran V., University of Nebraska-Lincoln, USA                   |
 | 13.30 - 14:15                | Structural and parameter identifiability of reaction systems and measurements                                                    | Sridharakumar Narasimhan, IIT Madras, India                         |
 | 14:15 - 15:00                | Incremental model identification for chemical and biological reaction systems                                                    | Nirav Bhatt, IIT Madras, India                                      |
 | 15:15 - 16:15                | [Hands-on session: Incremental modeling and  state estimation](https://github.com/Wickkey/Dual_Degree_Project)                   | Nirav Bhatt/Sridharkumar Narasimhan, IIT Madras, India              |
